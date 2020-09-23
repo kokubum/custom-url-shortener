@@ -37,3 +37,11 @@ Run the server:
 ```
 npm start
 ```
+
+## NPM Packages
+* [Dotenv](https://www.npmjs.com/package/dotenv)
+* [Express](https://www.npmjs.com/package/express)
+* [Mongoose](https://www.npmjs.com/package/mongoose)
+* [ShortId](https://www.npmjs.com/package/shortid)
+* [ValidUrl](https://www.npmjs.com/package/valid-url)
+* [Nodemon](https://www.npmjs.com/package/nodemon)
