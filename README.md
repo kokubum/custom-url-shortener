@@ -28,10 +28,10 @@ Make sure that you have node installed in your machine. After that, install the 
 ```
 npm install
 ```
-Create a **.env** file in your root directory, with information for your mongo database and base url.<br><br>
+Create a **.env** file in your root directory with information for your mongo database and base url.<br><br>
 **Ex: (DATABASE_URI, DB_USERNAME, DB_PASSWORD, BASE_URL)**.
 
-**obs:** If the DATABASE_URI is not defined, a local uri will be given: **mongodb://localhost:27017/url-shortener-api**<br><br>
+**obs:** If the DATABASE_URI is not defined, a local uri will be given: **mongodb://localhost:27017/url-shortener-api**<br>
 
 Run the server:
 ```
