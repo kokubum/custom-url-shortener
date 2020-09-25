@@ -19,5 +19,5 @@ const databaseOptions = {
 };
 
 mongoose.connect(databaseUri, databaseOptions).then((con) => {
-  console.log("DB connections successful");
+  console.log("DB connection successful");
 });
